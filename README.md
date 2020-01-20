@@ -5,8 +5,10 @@ La dirección IP del servidor es: 3.20.140.143
 
 En la dirección se muestra el resultado de la práctica realizada como parte del módulo de fundamentos de HTML y CCS3.
 
-En la dirección: tecnoox.com se puede visualizar el resultado anterior expuesto. En esta ocasión empleando https.
+En la dirección: tecnoox.com se puede visualizar la misma práctica anteriormente referenciada. En esta ocasión empleando protocolo https.
 
 Con una dirección de correo electrónico y cualquier contraseña se puede entrar al resto de la página.
+
+
 
 En la dirección: node.tecnoox.com se puede visualizar la respuesta del ejercicio 1 de la práctica del presente módulo.

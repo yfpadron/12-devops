@@ -1,4 +1,4 @@
-# Respuesta de la páctica del módulo configuración de servidores y despliegue de aplicaciones
+# Páctica del módulo configuración de servidores y despliegue de aplicaciones
 
 ## Ejercicio 2
 

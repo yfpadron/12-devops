@@ -2,7 +2,7 @@
 
 ## Ejercicio 1
 
-En la dirección: node.tecnoox.com se puede visualizar la respuesta del ejercicio 1 de la práctica del presente módulo.
+En la dirección: node.tecnoox.com se puede visualizar la respuesta del ejercicio 1.
 
 ## Ejercicio 2
 
@@ -18,6 +18,8 @@ Con una dirección de correo electrónico y cualquier contraseña se puede entra
 
 En la dirección: odoo.tecnoox.com se puede visualizar el despleigue de odoo en el servidor.
 
+
+# README de la aplicación desplegada en el ejercicio 1 
 
 # NodePop
 

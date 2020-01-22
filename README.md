@@ -14,6 +14,10 @@ Con una dirección de correo electrónico y cualquier contraseña se puede entra
 
 En la dirección: node.tecnoox.com se puede visualizar la respuesta del ejercicio 1 de la práctica del presente módulo.
 
+## Extra
+
+En la dirección: odoo.tecnoox.com se puede visualizar el despleigue de odoo en el servidor.
+
 
 # NodePop
 

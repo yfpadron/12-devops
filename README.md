@@ -19,7 +19,7 @@ Con una dirección de correo electrónico y cualquier contraseña se puede entra
 En la dirección: odoo.tecnoox.com se puede visualizar el despleigue de odoo en el servidor.
 
 
-# README de la aplicación desplegada en el ejercicio 1 
+## A continuación se encuentra el README de la aplicación desplegada en el ejercicio 1 
 
 # NodePop
 
